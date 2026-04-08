@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "BI-TI Heating & Cooling",
+    "phone": "+18563168745",
+    "category": "HVAC contractor",
+    "city": "Philadelphia",
+    "state": "PA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Philly's HVAC Experts",
+      "heroSubline": "BI-TI Heating & Cooling: Reliable comfort, guaranteed. Serving Philadelphia homes and businesses for over a decade.",
+      "aboutTitle": "Built on Trust, Driven by Results",
+      "aboutText": [
+        "BI-TI Heating & Cooling started with a simple goal: to provide honest, dependable HVAC services to our neighbors in Philadelphia. We're not just another contractor; we're a local team committed to keeping your home comfortable, no matter the season.",
+        "Our approach is straightforward: diagnose the problem accurately, explain your options clearly, and deliver quality workmanship that lasts. We use proven techniques and durable materials to ensure your HVAC system runs efficiently and reliably.",
+        "We believe in giving back to the community that supports us. From sponsoring local youth sports teams to participating in neighborhood cleanups, we're proud to be a part of the Philadelphia family."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "HVAC emergencies don't wait for business hours. We're available around the clock to handle urgent repairs."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. We provide clear, detailed estimates before any work begins."
+        },
+        {
+          "title": "Expert Technicians",
+          "description": "Our team is highly trained and certified to handle all your HVAC needs, from routine maintenance to complex installations."
+        },
+        {
+          "title": "Local & Trusted",
+          "description": "We're a Philadelphia-based company with a proven track record of satisfied customers."
+        }
+      ],
+      "ctaHeadline": "Get a Free Estimate Today!",
+      "ctaSubline": "Experience the BI-TI Heating & Cooling difference. Contact us now to schedule your consultation."
+    },
+    "services": [
+      {
+        "slug": "furnace-repair-philadelphia",
+        "name": "Furnace Repair",
+        "shortDescription": "Fast, reliable furnace repair services to keep your Philadelphia home warm all winter.",
+        "description": "When the Philadelphia winter hits, a functioning furnace isn't a luxury – it's a necessity. BI-TI Heating & Cooling provides comprehensive furnace repair services to get your system back up and running quickly. Our experienced technicians are familiar with all types of furnaces, from older models found in historic row houses to modern, high-efficiency units. \n\nWe start with a thorough diagnosis to identify the root cause of the problem. Whether it's a faulty igniter, a broken blower motor, or a gas leak, we'll explain the issue clearly and provide you with a transparent estimate for the repair. We use only quality replacement parts to ensure lasting performance and safety.\n\nOur team understands the urgency of furnace repairs, especially during freezing temperatures. That's why we offer 24/7 emergency service to address critical heating issues promptly. Don't suffer through another cold night – call BI-TI Heating & Cooling for reliable furnace repair you can count on.",
+        "process": [
+          "Step 1: Schedule an appointment online or by phone.",
+          "Step 2: A certified technician will diagnose your furnace issue.",
+          "Step 3: Receive a detailed estimate for the repair.",
+          "Step 4: We perform the repair using quality parts."
+        ],
+        "benefits": [
+          "Fast and reliable service",
+          "Experienced and certified technicians",
+          "Upfront pricing with no hidden fees",
+          "24/7 emergency availability"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you repair my furnace?",
+            "answer": "We offer same-day service for many furnace repairs. Our technicians arrive prepared with the tools and parts needed to diagnose and fix most common issues on the spot."
+          },
+          {
+            "question": "What are the signs that my furnace needs repair?",
+            "answer": "Common signs include unusual noises, inconsistent heating, a yellow pilot light, and a sudden increase in your energy bills. If you notice any of these issues, it's best to call for a professional inspection."
+          },
+          {
+            "question": "Do you offer furnace maintenance services?",
+            "answer": "Yes, we offer comprehensive furnace maintenance services to keep your system running efficiently and prevent costly repairs. Regular maintenance can extend the life of your furnace and improve its performance."
+          }
+        ]
+      },
+      {
+        "slug": "air-conditioning-repair-philadelphia",
+        "name": "Air Conditioning Repair",
+        "shortDescription": "Keep your cool with expert AC repair services in Philadelphia, PA.",
+        "description": "Philadelphia summers can be brutal, and a malfunctioning air conditioner can make your home unbearable. BI-TI Heating & Cooling provides prompt and professional AC repair services to restore your comfort quickly. We service all types of air conditioning systems, including central AC units, ductless mini-splits, and window units.\n\nOur technicians are trained to diagnose a wide range of AC problems, from refrigerant leaks and compressor failures to electrical issues and clogged filters. We use advanced diagnostic tools to pinpoint the exact cause of the problem and recommend the most effective repair solution.\n\nWe understand the importance of a functioning AC system during a heatwave. That's why we offer emergency AC repair services to address urgent cooling needs. Don't sweat it out – call BI-TI Heating & Cooling for reliable AC repair you can depend on.",
+        "process": [
+          "Step 1: Contact us to schedule an AC repair appointment.",
+          "Step 2: A skilled technician will inspect your AC system.",
+          "Step 3: We'll provide a detailed explanation of the problem and repair options.",
+          "Step 4: We'll complete the AC repair efficiently and effectively."
+        ],
+        "benefits": [
+          "Fast response times",
+          "Experienced and certified AC technicians",
+          "Transparent pricing",
+          "Emergency AC repair services"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my AC unit serviced?",
+            "answer": "We recommend having your AC unit serviced at least once a year, preferably in the spring before the cooling season begins. Regular maintenance can help prevent breakdowns and improve energy efficiency."
+          },
+          {
+            "question": "What are the common signs of AC problems?",
+            "answer": "Common signs include warm air blowing from the vents, strange noises, leaks, and a sudden increase in your energy bills. If you notice any of these issues, it's time to call for professional AC repair."
+          },
+          {
+            "question": "Do you offer AC installation services?",
+            "answer": "Yes, we offer complete AC installation services for all types of air conditioning systems. We can help you choose the right AC unit for your home and install it properly to ensure optimal performance."
+          }
+        ]
+      },
+      {
+        "slug": "heat-pump-services-philadelphia",
+        "name": "Heat Pump Services",
+        "shortDescription": "Efficient heat pump installation, repair, and maintenance in Philadelphia, PA.",
+        "description": "Heat pumps are a versatile and energy-efficient way to heat and cool your Philadelphia home. BI-TI Heating & Cooling specializes in heat pump installation, repair, and maintenance services. Whether you're considering a new heat pump installation or need to repair your existing system, we have the expertise to handle it all.\n\nOur technicians are trained to work on all types of heat pumps, including air-source, geothermal, and ductless mini-split systems. We can help you choose the right heat pump for your home's size and energy needs. We provide expert installation services to ensure optimal performance and energy savings.\n\nIf your heat pump is not working properly, we can diagnose the problem and provide efficient repairs. We also offer routine maintenance services to keep your heat pump running smoothly and prevent costly breakdowns.",
+        "process": [
+          "Step 1: Schedule a consultation to discuss your heat pump needs.",
+          "Step 2: We'll assess your home and recommend the best heat pump solution.",
+          "Step 3: We'll provide a detailed quote for the installation or repair.",
+          "Step 4: We'll complete the work efficiently and professionally."
+        ],
+        "benefits": [
+          "Energy-efficient heating and cooling",
+          "Expert installation and repair services",
+          "Reduced energy bills",
+          "Improved home comfort"
+        ],
+        "faq": [
+          {
+            "question": "How does a heat pump work?",
+            "answer": "A heat pump transfers heat from one place to another. In the winter, it extracts heat from the outside air and transfers it inside your home. In the summer, it reverses the process and removes heat from your home."
+          },
+          {
+            "question": "What are the benefits of a heat pump?",
+            "answer": "Heat pumps are more energy-efficient than traditional heating and cooling systems, which can save you money on your energy bills. They also provide consistent and comfortable temperatures throughout your home."
+          },
+          {
+            "question": "How long does a heat pump last?",
+            "answer": "With proper maintenance, a heat pump can last for 15-20 years. Regular maintenance can help extend the life of your heat pump and prevent costly repairs."
+          }
+        ]
+      },
+      {
+        "slug": "ductwork-services-philadelphia",
+        "name": "Ductwork Services",
+        "shortDescription": "Improve your HVAC efficiency with professional ductwork cleaning, repair, and installation in Philadelphia.",
+        "description": "Leaky or dirty ductwork can significantly reduce the efficiency of your HVAC system and impact indoor air quality. BI-TI Heating & Cooling offers comprehensive ductwork services to ensure your system is performing at its best. We provide ductwork cleaning, repair, and installation services to homes throughout Philadelphia.\n\nOur ductwork cleaning services remove dust, debris, and allergens from your duct system, improving air quality and reducing allergy symptoms. We use specialized equipment to thoroughly clean your ducts without damaging them.\n\nIf your ductwork is damaged or leaking, we can provide professional repairs to seal leaks and improve airflow. We also offer complete ductwork installation services for new construction or remodeling projects.",
+        "process": [
+          "Step 1: Schedule a ductwork inspection.",
+          "Step 2: We'll assess your ductwork and identify any issues.",
+          "Step 3: We'll provide a detailed quote for the necessary services.",
+          "Step 4: We'll complete the work efficiently and professionally."
+        ],
+        "benefits": [
+          "Improved indoor air quality",
+          "Increased HVAC efficiency",
+          "Reduced energy bills",
+          "Elimination of musty odors"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my ductwork cleaned?",
+            "answer": "We recommend having your ductwork cleaned every 3-5 years, or more often if you have pets, allergies, or a history of mold growth."
+          },
+          {
+            "question": "What are the signs of leaky ductwork?",
+            "answer": "Signs of leaky ductwork include uneven temperatures in different rooms, increased energy bills, and excessive dust in your home."
+          },
+          {
+            "question": "Can leaky ductwork affect my health?",
+            "answer": "Yes, leaky ductwork can allow pollutants and allergens to enter your home, which can trigger allergy symptoms and respiratory problems."
+          }
+        ]
+      },
+      {
+        "slug": "indoor-air-quality-philadelphia",
+        "name": "Indoor Air Quality Solutions",
+        "shortDescription": "Breathe easier with our indoor air quality testing and solutions for Philadelphia homes.",
+        "description": "Poor indoor air quality can have a significant impact on your health and well-being. BI-TI Heating & Cooling offers comprehensive indoor air quality testing and solutions to improve the air you breathe in your Philadelphia home. We provide air purification systems, humidifiers, and dehumidifiers to address a variety of indoor air quality concerns.\n\nOur indoor air quality testing services identify pollutants, allergens, and other contaminants in your home's air. We use advanced testing equipment to provide accurate results and recommend the best solutions.\n\nWe offer a range of air purification systems to remove dust, pollen, mold spores, and other allergens from your air. We also offer humidifiers and dehumidifiers to control humidity levels and prevent mold growth.",
+        "process": [
+          "Step 1: Schedule an indoor air quality assessment.",
+          "Step 2: We'll test your home's air for pollutants and allergens.",
+          "Step 3: We'll provide a detailed report of our findings.",
+          "Step 4: We'll recommend the best solutions to improve your indoor air quality."
+        ],
+        "benefits": [
+          "Improved respiratory health",
+          "Reduced allergy symptoms",
+          "Elimination of odors",
+          "Healthier living environment"
+        ],
+        "faq": [
+          {
+            "question": "What are the common indoor air pollutants?",
+            "answer": "Common indoor air pollutants include dust, pollen, mold spores, pet dander, volatile organic compounds (VOCs), and carbon monoxide."
+          },
+          {
+            "question": "How can I improve my indoor air quality?",
+            "answer": "You can improve your indoor air quality by regularly cleaning your home, using air purifiers, controlling humidity levels, and ventilating your home properly."
+          },
+          {
+            "question": "Do air purifiers really work?",
+            "answer": "Yes, air purifiers can be effective at removing pollutants and allergens from your air, especially those with HEPA filters."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-hvac-services-philadelphia",
+        "name": "Commercial HVAC Services",
+        "shortDescription": "Reliable HVAC solutions for Philadelphia businesses, from installation to maintenance.",
+        "description": "BI-TI Heating & Cooling provides comprehensive commercial HVAC services to businesses throughout Philadelphia. We understand the unique challenges of maintaining comfortable and efficient HVAC systems in commercial buildings. Whether you need a new HVAC system installed, repairs to your existing system, or routine maintenance, we have the expertise to handle it all.\n\nOur experienced technicians are trained to work on all types of commercial HVAC systems, including rooftop units, chillers, and air handlers. We provide prompt and reliable service to minimize downtime and keep your business running smoothly.\n\nWe also offer preventative maintenance programs to keep your HVAC system running efficiently and prevent costly breakdowns. Regular maintenance can extend the life of your system and reduce energy costs.",
+        "process": [
+          "Step 1: Schedule a consultation to discuss your commercial HVAC needs.",
+          "Step 2: We'll assess your building and recommend the best HVAC solution.",
+          "Step 3: We'll provide a detailed quote for the installation, repair, or maintenance.",
+          "Step 4: We'll complete the work efficiently and professionally."
+        ],
+        "benefits": [
+          "Reliable and efficient HVAC systems",
+          "Reduced energy costs",
+          "Improved employee comfort",
+          "Minimized downtime"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my commercial HVAC system serviced?",
+            "answer": "We recommend having your commercial HVAC system serviced at least twice a year, once in the spring and once in the fall. Regular maintenance can help prevent breakdowns and improve energy efficiency."
+          },
+          {
+            "question": "What are the signs of commercial HVAC problems?",
+            "answer": "Signs of commercial HVAC problems include uneven temperatures in different areas of the building, increased energy bills, and unusual noises coming from the system."
+          },
+          {
+            "question": "Do you offer emergency commercial HVAC services?",
+            "answer": "Yes, we offer 24/7 emergency commercial HVAC services to address urgent cooling and heating needs."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Philadelphia",
+        "slug": "philadelphia-pa",
+        "state": "PA",
+        "content": "BI-TI Heating & Cooling is proud to serve the vibrant city of Philadelphia, PA. We understand the unique heating and cooling needs of Philadelphia residents, from historic row homes to modern apartments. Our team is equipped to handle any HVAC challenge, ensuring your comfort throughout the year. Whether you need a new furnace installation, air conditioning repair, or routine maintenance, BI-TI Heating & Cooling is your trusted partner in Philadelphia.\n\nWe offer a full range of HVAC services to Philadelphia residents, including emergency repairs, system replacements, and preventative maintenance plans. Our experienced technicians are committed to providing prompt, reliable service and ensuring your complete satisfaction. We use only the highest quality parts and equipment, and we stand behind our work with a satisfaction guarantee.",
+        "localContext": "Philadelphia is known for its rich history, diverse culture, and passionate sports fans. BI-TI Heating & Cooling is committed to providing exceptional service to the Philadelphia community.",
+        "nearbyAreas": [
+          "Camden",
+          "Upper Darby",
+          "Bala Cynwyd"
+        ]
+      },
+      {
+        "city": "Upper Darby",
+        "slug": "upper-darby-pa",
+        "state": "PA",
+        "content": "BI-TI Heating & Cooling extends its expert HVAC services to Upper Darby, PA. We recognize the diverse housing styles in Upper Darby, and we tailor our services to meet the specific needs of each home. From older homes needing furnace upgrades to newer constructions requiring efficient AC installations, we've got you covered. We are committed to keeping Upper Darby residents comfortable, no matter the season.\n\nOur services in Upper Darby include comprehensive HVAC system inspections, repairs, and installations. We also offer preventative maintenance plans to help you avoid costly breakdowns and extend the life of your equipment. Our team is dedicated to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Upper Darby is a diverse and vibrant community known for its close proximity to Philadelphia. BI-TI Heating & Cooling is proud to serve the residents of Upper Darby.",
+        "nearbyAreas": [
+          "Philadelphia",
+          "Drexel Hill",
+          "Clifton Heights"
+        ]
+      },
+      {
+        "city": "Drexel Hill",
+        "slug": "drexel-hill-pa",
+        "state": "PA",
+        "content": "BI-TI Heating & Cooling provides top-notch HVAC services to the Drexel Hill, PA community. We understand the importance of a reliable heating and cooling system in Drexel Hill homes. Our team is experienced in servicing all types of HVAC equipment, from traditional furnaces and air conditioners to modern heat pumps and ductless systems. We are dedicated to providing prompt and reliable service to keep your home comfortable year-round.\n\nWe offer a wide range of HVAC services in Drexel Hill, including emergency repairs, system replacements, and routine maintenance. Our technicians are highly trained and experienced, and we use only the highest quality parts and equipment. We are committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Drexel Hill is a family-friendly community with a strong sense of community pride. BI-TI Heating & Cooling is committed to supporting the Drexel Hill community by providing reliable and affordable HVAC services.",
+        "nearbyAreas": [
+          "Upper Darby",
+          "Springfield",
+          "Havertown"
+        ]
+      },
+      {
+        "city": "Springfield",
+        "slug": "springfield-pa",
+        "state": "PA",
+        "content": "BI-TI Heating & Cooling is your trusted HVAC provider in Springfield, PA. We understand the unique heating and cooling needs of Springfield homes. Our team is equipped to handle any HVAC challenge, from routine maintenance to emergency repairs. We are committed to providing prompt, reliable service and ensuring your complete satisfaction.\n\nOur services in Springfield include furnace repair and installation, air conditioning repair and installation, heat pump services, and ductwork cleaning and repair. We also offer preventative maintenance plans to help you keep your system running smoothly and efficiently. We are dedicated to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Springfield is a thriving community known for its excellent schools and family-friendly atmosphere. BI-TI Heating & Cooling is proud to serve the residents of Springfield.",
+        "nearbyAreas": [
+          "Swarthmore",
+          "Morton",
+          "Media"
+        ]
+      },
+      {
+        "city": "Bala Cynwyd",
+        "slug": "bala-cynwyd-pa",
+        "state": "PA",
+        "content": "BI-TI Heating & Cooling offers expert HVAC solutions to the residents of Bala Cynwyd, PA. We understand the discerning tastes and needs of Bala Cynwyd homeowners, offering high-efficiency systems and discreet service. From maintaining classic homes to installing systems in new constructions, we provide tailored solutions for optimal comfort. We are committed to excellence in every job we undertake.\n\nOur services in Bala Cynwyd include a full spectrum of HVAC solutions, from routine maintenance and repairs to complete system replacements and upgrades. We specialize in energy-efficient solutions and offer comprehensive consultations to help you choose the best system for your home and budget. We are committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Bala Cynwyd is an affluent suburb of Philadelphia known for its beautiful homes and excellent schools. BI-TI Heating & Cooling is committed to providing exceptional service to the residents of Bala Cynwyd.",
+        "nearbyAreas": [
+          "Philadelphia",
+          "Narberth",
+          "Wynnewood"
+        ]
+      },
+      {
+        "city": "Havertown",
+        "slug": "havertown-pa",
+        "state": "PA",
+        "content": "BI-TI Heating & Cooling is dedicated to providing reliable HVAC services to the Havertown, PA community. We understand the importance of a comfortable home environment, especially during the hot summers and cold winters. Our team is experienced in servicing all types of HVAC equipment, and we are committed to providing prompt, reliable service at a fair price.\n\nWe offer a wide range of HVAC services in Havertown, including furnace repair and installation, air conditioning repair and installation, heat pump services, and ductwork cleaning and repair. We also offer preventative maintenance plans to help you keep your system running smoothly and efficiently. We are committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Havertown is a close-knit community with a strong sense of tradition and community spirit. BI-TI Heating & Cooling is proud to serve the residents of Havertown.",
+        "nearbyAreas": [
+          "Broomall",
+          "Drexel Hill",
+          "Ardmore"
+        ]
+      },
+      {
+        "city": "Broomall",
+        "slug": "broomall-pa",
+        "state": "PA",
+        "content": "BI-TI Heating & Cooling is proud to offer its comprehensive HVAC services to the residents of Broomall, PA. We understand the unique needs of Broomall homeowners and are committed to providing prompt, reliable, and affordable solutions. Whether you need a simple repair or a complete system replacement, our team is here to help.\n\nWe offer a full range of HVAC services in Broomall, including furnace repair and installation, air conditioning repair and installation, heat pump services, and ductwork cleaning and repair. We also offer preventative maintenance plans to help you keep your system running smoothly and efficiently. Our technicians are highly trained and experienced, and we use only the highest quality parts and equipment.",
+        "localContext": "Broomall is a family-oriented community with a strong sense of community pride. BI-TI Heating & Cooling is committed to providing exceptional service to the residents of Broomall.",
+        "nearbyAreas": [
+          "Havertown",
+          "Newtown Square",
+          "Media"
+        ]
+      },
+      {
+        "city": "Camden",
+        "slug": "camden-nj",
+        "state": "NJ",
+        "content": "BI-TI Heating & Cooling proudly extends its professional HVAC services to Camden, NJ, understanding the city's diverse residential and commercial needs. We are committed to providing efficient and reliable heating and cooling solutions, ensuring comfort and safety for all our customers. Our skilled technicians are equipped to handle various HVAC systems, from older setups to modern energy-efficient models.\n\nOur range of services in Camden includes installation, repair, and maintenance of furnaces, air conditioners, and heat pumps. We also offer indoor air quality assessments and solutions to ensure a healthy living and working environment. We focus on delivering top-notch customer service and lasting results to meet the unique demands of Camden residents and businesses.",
+        "localContext": "Camden, NJ, is a city with a rich history and a growing community. BI-TI Heating & Cooling is dedicated to contributing to the comfort and well-being of Camden residents through quality HVAC services.",
+        "nearbyAreas": [
+          "Philadelphia",
+          "Gloucester City",
+          "Pennsauken"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "AC Repair",
+        "text": "Our AC broke down during a heatwave, and BI-TI Heating & Cooling came to the rescue! They were fast, professional, and fixed the problem quickly. I highly recommend them!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Furnace Installation",
+        "text": "BI-TI Heating & Cooling installed a new furnace for us, and the process was smooth from start to finish. The team was knowledgeable and answered all our questions. We're very happy with the new furnace and the service we received.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Duct Cleaning",
+        "text": "I noticed a musty smell in my house, and BI-TI Heating & Cooling recommended duct cleaning. The difference is amazing! The air feels cleaner, and the smell is gone. Great service!",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Heat Pump Repair",
+        "text": "My heat pump stopped working, and BI-TI Heating & Cooling was able to diagnose and fix the problem quickly. They were professional, efficient, and reasonably priced. I'll definitely use them again.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Sarah M.",
+        "rating": 4,
+        "service": "AC Maintenance",
+        "text": "I had BI-TI Heating & Cooling perform AC maintenance on my unit. The technician was thorough and professional, and he identified a potential issue that could have caused a breakdown later. I appreciate their attention to detail.",
+        "date": "2024-06-20"
+      },
+      {
+        "name": "Anthony P.",
+        "rating": 5,
+        "service": "Commercial HVAC Repair",
+        "text": "BI-TI Heating & Cooling has been our go-to HVAC contractor for our restaurant for years. They are always reliable and responsive, especially during emergencies. Highly recommended for commercial properties.",
+        "date": "2025-03-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "BI-TI Heating & Cooling | Philadelphia HVAC",
+        "description": "Expert HVAC services in Philadelphia, PA. Furnace & AC repair, installation & maintenance. Call today!"
+      },
+      "about": {
+        "title": "About BI-TI Heating & Cooling | Philadelphia",
+        "description": "Learn about BI-TI Heating & Cooling, a trusted HVAC contractor serving Philadelphia and the surrounding areas."
+      },
+      "services": {
+        "title": "HVAC Services | BI-TI Heating & Cooling",
+        "description": "Comprehensive HVAC services in Philadelphia: furnace repair, AC repair, heat pumps, ductwork, and more."
+      },
+      "contact": {
+        "title": "Contact BI-TI Heating & Cooling",
+        "description": "Contact BI-TI Heating & Cooling for all your HVAC needs in Philadelphia. Get a free estimate today!"
+      },
+      "reviews": {
+        "title": "BI-TI Heating & Cooling Reviews",
+        "description": "Read reviews from satisfied BI-TI Heating & Cooling customers in Philadelphia."
+      },
+      "service-areas": {
+        "title": "BI-TI Heating & Cooling Service Areas",
+        "description": "BI-TI Heating & Cooling provides HVAC services throughout Philadelphia and surrounding communities."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "furnace-repair-philadelphia": "/images/service-furnace-repair-philadelphia.webp",
+      "air-conditioning-repair-philadelphia": "/images/service-air-conditioning-repair-philadelphia.webp",
+      "heat-pump-services-philadelphia": "/images/service-heat-pump-services-philadelphia.webp",
+      "ductwork-services-philadelphia": "/images/service-ductwork-services-philadelphia.webp",
+      "indoor-air-quality-philadelphia": "/images/service-indoor-air-quality-philadelphia.webp",
+      "commercial-hvac-services-philadelphia": "/images/service-commercial-hvac-services-philadelphia.webp"
+    },
+    "servicesResponsive": {
+      "furnace-repair-philadelphia": {
+        "src": "/images/service-furnace-repair-philadelphia.webp",
+        "srcset": "/images/service-furnace-repair-philadelphia-400w.webp 400w, /images/service-furnace-repair-philadelphia-800w.webp 800w, /images/service-furnace-repair-philadelphia-1200w.webp 1200w, /images/service-furnace-repair-philadelphia.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "air-conditioning-repair-philadelphia": {
+        "src": "/images/service-air-conditioning-repair-philadelphia.webp",
+        "srcset": "/images/service-air-conditioning-repair-philadelphia-400w.webp 400w, /images/service-air-conditioning-repair-philadelphia-800w.webp 800w, /images/service-air-conditioning-repair-philadelphia-1200w.webp 1200w, /images/service-air-conditioning-repair-philadelphia.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "heat-pump-services-philadelphia": {
+        "src": "/images/service-heat-pump-services-philadelphia.webp",
+        "srcset": "/images/service-heat-pump-services-philadelphia-400w.webp 400w, /images/service-heat-pump-services-philadelphia-800w.webp 800w, /images/service-heat-pump-services-philadelphia-1200w.webp 1200w, /images/service-heat-pump-services-philadelphia.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ductwork-services-philadelphia": {
+        "src": "/images/service-ductwork-services-philadelphia.webp",
+        "srcset": "/images/service-ductwork-services-philadelphia-400w.webp 400w, /images/service-ductwork-services-philadelphia-800w.webp 800w, /images/service-ductwork-services-philadelphia-1200w.webp 1200w, /images/service-ductwork-services-philadelphia.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "indoor-air-quality-philadelphia": {
+        "src": "/images/service-indoor-air-quality-philadelphia.webp",
+        "srcset": "/images/service-indoor-air-quality-philadelphia-400w.webp 400w, /images/service-indoor-air-quality-philadelphia-800w.webp 800w, /images/service-indoor-air-quality-philadelphia-1200w.webp 1200w, /images/service-indoor-air-quality-philadelphia.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-hvac-services-philadelphia": {
+        "src": "/images/service-commercial-hvac-services-philadelphia.webp",
+        "srcset": "/images/service-commercial-hvac-services-philadelphia-400w.webp 400w, /images/service-commercial-hvac-services-philadelphia-800w.webp 800w, /images/service-commercial-hvac-services-philadelphia-1200w.webp 1200w, /images/service-commercial-hvac-services-philadelphia.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
